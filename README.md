@@ -38,9 +38,9 @@ Specs for this code snippet:
        * time: number
          * purpose: to know how long to exercise the cow
     * return: a cow object
-    * purpose: so the healthier cow can go home
-  * behavior: subtacts 3 from the cow's weight for every unit of time
-  * purpose: to make healthier cows
+       * purpose: so the healthier cow can go home
+    * behavior: subtacts 3 from the cow's weight for every unit of time
+     m  * purpose: to make healthier cows
  
 General spec for pure functions:
 * function_name:  type (function)
@@ -50,7 +50,7 @@ General spec for pure functions:
   * return:  type
     * purpose:  what is the returned value used for in the function
   * behavior:  what happend between the function's curly braces
-  * purpose:  what does this function do in the applicaiton
+    * purpose:  what does this function do in the applicaiton
 
 
 [TOP](#specifications)
